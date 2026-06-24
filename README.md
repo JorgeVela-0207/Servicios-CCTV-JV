@@ -37,14 +37,6 @@ python -m http.server 8080
 
 Luego visita `http://localhost:8080`.
 
-**En línea (GitHub Pages):**
-
-https://jorgevela-0207.github.io/servicios-cctv-jv/
-
-## Contacto
-
-Cotizaciones e información por WhatsApp: **+52 868 363 8812**
-
 ## Tecnologías
 
 - HTML5
